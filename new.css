@@ -1,0 +1,111 @@
+body{
+	font-family: Tahoma;
+	padding: 0;
+	margin: 0;
+	font-size: 11px;
+	color: #2B587A;
+}
+.page{
+	
+	
+}
+.page-content{
+	width: 1000px;
+	position: relative;
+	
+}
+
+.head-block{
+	position: relative;
+	
+    -moz-border-radius: 10px; /* закругление для старых Mozilla Firefox */
+    -webkit-border-radius: 10px; /* закругл. для старых Chrome и Safari */
+    -khtml-border-radius: 10px; /* закругл.для брауз.Konquerer сист. Linux */
+     border-radius: 10px; /* закругление углов для всех, кто понимает */
+	width: 900px;
+	height: 65px;
+	background: #F1485B;
+}
+
+.head-block h4{
+	margin: 0;
+	font-size: 36px;
+	text-align: center;
+	color: #4B2323;
+	
+}
+		
+
+}	
+.hr_line{
+	margin: 3px 5px 3px 5px;
+	padding: 0;
+	
+}
+.content_block{
+	position: relative;
+	margin: 0 15px 0 60px;
+	padding: 0;
+	
+	
+}
+.content_head{
+	background: #F3F3F3;
+	height: 29px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	
+	
+}
+.content_head h1{
+	margin: 0;
+	font-size: 11px;
+	text-align: left;
+	padding: 7px 10px;
+}
+.content_left{
+	margin: 0px;
+	width: 340px;
+	height: 340px;
+	position: relative;
+	
+}
+.profile_foto{
+	position: relative;
+	height: 200px;
+
+}
+
+.content_center{
+	position: absolute;
+	width: 520px;
+	height: 500px;
+	margin: 0;
+	padding: 5px;
+	left: 350px;
+	top: 5px;
+	
+}
+.content_center p{
+	margin: 3px;
+	font-size: 16px;
+	text-align: left;
+	color: 912407;
+}
+
+
+.center_head{
+	position: relative;
+	margin: 0 0 0 10px;
+	padding: 9px 10px 12px 10px;
+	width: 290px;
+}
+
+.center_head h1{
+	margin: 0;
+	font-size: 12px;
+	text-align: left;
+	
+}
+
